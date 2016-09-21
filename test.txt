@@ -1,3 +1,2 @@
-Sample content.
-
 "Updating with Bash..."
+"Update with Tortoise..."
